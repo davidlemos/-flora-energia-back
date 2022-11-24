@@ -1,7 +1,7 @@
 {
     "Proposal": {
-      "value": { "string": ["250,00"] },
-      "newValue": { "string": ["224,13"] },
+      "BillValue": { "string": ["250,00"] },
+      "newBillValue": { "string": ["224,13"] },
       "provider": {"string": ["Cemig"]},
       "monthlypaymentProvider": { "string": ["86,17"] },
       "monthlypaymentFlora": { "string": ["137,97"] },
