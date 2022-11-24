@@ -1,11 +1,11 @@
 {
     "Proposal": {
-      "value": { "int": [250.00] },
-      "newValue": { "int": [224.13] },
+      "value": { "number": [250.00] },
+      "newValue": { "number": [224.13] },
       "provider": {"string": ["Cemig"]},
-      "monthlypaymentProvider": { "int": [224.13] },
-      "monthlypaymentFlora": { "int": [224.13] },
-      "monthlySavings": { "int": [224.13] },
-      "annualSavings": { "int": [224.13] }
+      "monthlypaymentProvider": { "number": [224.13] },
+      "monthlypaymentFlora": { "number": [224.13] },
+      "monthlySavings": { "number": [224.13] },
+      "annualSavings": { "number": [224.13] }
     }
   }
