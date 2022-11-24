@@ -1,11 +1,11 @@
 {
     "Proposal": {
       "BillValue": { "string": ["250,00"] },
-      "newBillValue": { "string": ["224,13"] },
-      "provider": {"string": ["Cemig"]},
-      "monthlypaymentProvider": { "string": ["86,17"] },
-      "monthlypaymentFlora": { "string": ["137,97"] },
-      "monthlySavings": { "string": ["25,87"] },
-      "annualSavings": { "string": ["310,44"] }
+      "NewBillValue": { "string": ["224,13"] },
+      "Provider": {"string": ["Cemig"]},
+      "MonthlypaymentProvider": { "string": ["86,17"] },
+      "MonthlypaymentFlora": { "string": ["137,97"] },
+      "MonthlySavings": { "string": ["25,87"] },
+      "AnnualSavings": { "string": ["310,44"] }
     }
   }
